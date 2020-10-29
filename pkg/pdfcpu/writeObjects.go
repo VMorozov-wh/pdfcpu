@@ -19,7 +19,7 @@ package pdfcpu
 import (
 	"fmt"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

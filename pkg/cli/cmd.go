@@ -19,7 +19,7 @@ package cli
 import (
 	"io"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 // Command represents an execution context.

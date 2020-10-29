@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/api"
-	pdf "github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/api"
+	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 var sampleText string = `MOST of the adventures recorded in this book really occurred; one or

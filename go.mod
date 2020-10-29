@@ -1,4 +1,4 @@
-module github.com/VMorozov-wh/pdfcpu
+module github.com/pdfcpu/pdfcpu
 
 go 1.15
 

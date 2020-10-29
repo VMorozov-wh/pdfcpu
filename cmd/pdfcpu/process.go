@@ -24,10 +24,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/api"
-	"github.com/VMorozov-wh/pdfcpu/pkg/cli"
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu/validate"
+	"github.com/pdfcpu/pdfcpu/pkg/api"
+	"github.com/pdfcpu/pdfcpu/pkg/cli"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/validate"
 	"github.com/pkg/errors"
 )
 

@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/types"
+	"github.com/pdfcpu/pdfcpu/pkg/types"
 )
 
 // Supported line delimiters

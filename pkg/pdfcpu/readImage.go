@@ -23,7 +23,7 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/filter"
+	"github.com/pdfcpu/pdfcpu/pkg/filter"
 	"github.com/pkg/errors"
 )
 

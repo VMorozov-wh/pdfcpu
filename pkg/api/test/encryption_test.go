@@ -21,8 +21,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/api"
-	pdf "github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/api"
+	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 func confForAlgorithm(aes bool, keyLength int, upw, opw string) *pdf.Configuration {

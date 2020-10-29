@@ -21,8 +21,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 // Rotate rotates selected pages of rs clockwise by rotation degrees and writes the result to w.

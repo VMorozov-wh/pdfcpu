@@ -24,10 +24,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/api"
-	"github.com/VMorozov-wh/pdfcpu/pkg/cli"
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/api"
+	"github.com/pdfcpu/pdfcpu/pkg/cli"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 var inDir, outDir, resDir, fontDir string

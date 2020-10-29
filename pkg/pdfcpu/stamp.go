@@ -30,11 +30,11 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/VMorozov-wh/pdfcpu/internal/corefont/metrics"
-	"github.com/VMorozov-wh/pdfcpu/pkg/filter"
-	"github.com/VMorozov-wh/pdfcpu/pkg/font"
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
-	"github.com/VMorozov-wh/pdfcpu/pkg/types"
+	"github.com/pdfcpu/pdfcpu/internal/corefont/metrics"
+	"github.com/pdfcpu/pdfcpu/pkg/filter"
+	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/pdfcpu/pdfcpu/pkg/types"
 
 	"github.com/pkg/errors"
 )

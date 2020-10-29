@@ -22,8 +22,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/font"
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
+	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
 )
 
 func isSupportedFontFile(filename string) bool {

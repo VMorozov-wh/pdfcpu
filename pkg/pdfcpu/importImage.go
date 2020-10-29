@@ -23,7 +23,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/types"
+	"github.com/pdfcpu/pdfcpu/pkg/types"
 	"github.com/pkg/errors"
 )
 

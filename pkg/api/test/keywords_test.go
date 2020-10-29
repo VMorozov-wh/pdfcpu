@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/api"
+	"github.com/pdfcpu/pdfcpu/pkg/api"
 )
 
 func listKeywords(t *testing.T, msg, fileName string, want []string) []string {

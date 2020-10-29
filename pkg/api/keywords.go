@@ -21,8 +21,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/log"
-	pdf "github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/log"
+	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

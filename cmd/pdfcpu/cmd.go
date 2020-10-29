@@ -23,7 +23,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
+	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
 )
 
 var (

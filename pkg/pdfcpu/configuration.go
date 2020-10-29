@@ -22,8 +22,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/VMorozov-wh/pdfcpu/internal/config"
-	"github.com/VMorozov-wh/pdfcpu/pkg/font"
+	"github.com/pdfcpu/pdfcpu/internal/config"
+	"github.com/pdfcpu/pdfcpu/pkg/font"
 )
 
 const (
