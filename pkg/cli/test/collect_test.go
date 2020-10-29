@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
+	"github.com/VMorozov-wh/pdfcpu/pkg/cli"
 )
 
 // Create a custom page sequence.

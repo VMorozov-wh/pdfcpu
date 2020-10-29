@@ -21,7 +21,7 @@ import (
 	"io"
 
 	"github.com/hhrutter/lzw"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/VMorozov-wh/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

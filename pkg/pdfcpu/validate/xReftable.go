@@ -18,8 +18,8 @@ limitations under the License.
 package validate
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/VMorozov-wh/pdfcpu/pkg/log"
+	pdf "github.com/VMorozov-wh/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 
